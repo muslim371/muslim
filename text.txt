@@ -1,0 +1,5 @@
+/my_website
+├── index.html      
+├── script.js       
+├── style.css       
+└── assets/         
